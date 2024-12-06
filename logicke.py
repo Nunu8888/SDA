@@ -1,0 +1,7 @@
+print(True and False or False)
+print(True or False)
+print(False or True)
+print(True or False and True)
+print(not False)
+print("fox" not in "cow, dog, cat")
+print("great" in "Python is great!!!")
