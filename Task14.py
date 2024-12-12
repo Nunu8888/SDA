@@ -9,6 +9,6 @@ kolekce_list.append("Filip")
 print(kolekce_list)
 print(f"prvek na indexu 1 {kolekce_list[1]}")
 print(f"prvek na indexu 2 {kolekce_list[2]}")
-print(f"prvek na indexu 1 "kolekce_list[1])
+print(f"prvek na indexu 1 {kolekce_list[0:4]}")
 
 
