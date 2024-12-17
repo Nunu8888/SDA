@@ -4,7 +4,8 @@ cislo = 1
 while cislo < 5:
     print(cislo)
     cislo += 1
-print(f"Hotovo, číslo je {cislo} a protože neplati podminka while 5 < 5")
+print(f"Hotovo, číslo je {cislo}")
+
 #vykoná se řádek 1 -> cislo bude 1
 #vykoná se porovnání na řádku 2. 1 < 5, takže se začne vykonávat tělo while
 #vykoná se řádek 3 -> vypíše se 1

@@ -1,6 +1,6 @@
 zvirata = ["Kočka", "Pes", "Had"]
 
-#TADY NAPSAT FORCYKLUS KTERÝ POSTUPNĚ VYPÍŠE
+#TADY NAPSAT FOR CYKLUS KTERÝ POSTUPNĚ VYPÍŠE
 #"Kočka běhá"
 #"Pes běhá"
 #"Had běhá"
